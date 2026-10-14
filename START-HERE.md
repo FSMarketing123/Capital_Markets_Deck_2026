@@ -19,7 +19,7 @@ Leasing decks (`../Leasing/`).
 
 | Deck | Status | Preview |
 |---|---|---|
-| `04_Decks/2026-10_atl-retail-investment-sales/` | Build — draft with highlighted placeholders (`00_Intake/PLACEHOLDERS.md`) | http://localhost:8082 |
+| `04_Decks/2026-10_atl-retail-investment-sales/` | Build — draft with highlighted placeholders (`00_Intake/PLACEHOLDERS.md`) | Live: https://fsmarketing123.github.io/Capital_Markets_Deck_2026/ · local: http://localhost:8082 |
 
 ## Commands
 

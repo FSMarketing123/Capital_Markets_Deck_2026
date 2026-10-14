@@ -3,6 +3,8 @@
 Scroll-and-clicker landing-page decks for Franklin Street investment sales, built on the same design
 system as the Leasing decks.
 
+**Live deck (draft):** https://fsmarketing123.github.io/Capital_Markets_Deck_2026/
+
 **Start here:** [START-HERE.md](START-HERE.md)
 
 | Folder | What it is |
@@ -19,6 +21,11 @@ system as the Leasing decks.
 
 Draft with highlighted placeholders — see
 [`04_Decks/2026-10_atl-retail-investment-sales/00_Intake/PLACEHOLDERS.md`](04_Decks/2026-10_atl-retail-investment-sales/00_Intake/PLACEHOLDERS.md).
+
+## Publish
+
+Every push to `main` republishes the Atlanta deck to GitHub Pages (https://fsmarketing123.github.io/Capital_Markets_Deck_2026/) via `.github/workflows/deploy-pages.yml`.
+To publish a different deck, change `SITE_DIR` in that file.
 
 ## Preview locally
 

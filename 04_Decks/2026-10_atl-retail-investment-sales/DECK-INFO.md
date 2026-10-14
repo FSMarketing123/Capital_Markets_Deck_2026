@@ -11,7 +11,7 @@
 | Property | Capabilities — not property-specific |
 | Meeting / send date | |
 | Approver | |
-| Live URL | |
+| Live URL | https://fsmarketing123.github.io/Capital_Markets_Deck_2026/ (GitHub Pages — draft with placeholders) |
 | Netlify site name | |
 | Current version | v0.2 (draft with placeholders) |
 
